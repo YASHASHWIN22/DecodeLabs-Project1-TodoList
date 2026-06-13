@@ -1,4 +1,4 @@
-# DecodeLabs Project 1 - To-Do List Manager
+# To-Do List Manager
 
 ## Features
 - Add Tasks
